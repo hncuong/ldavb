@@ -1,7 +1,7 @@
 import os
 import re
 #from itertools import izip
-
+# hi there some CHANGE OVERHERE
 # read and organize data
 
 class document :
